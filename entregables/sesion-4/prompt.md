@@ -51,5 +51,5 @@ Scenario: Usuario filtra lista de tareas por estado
 @prompt.md @docs/PRD.md
 Use the prompt tp create the tasks needed to compelte this user story. Separate the taks when it makes sense to the context and complecity and add a fibbonacci pontuation to each task. Taks should have a value deliverable. Follow all rules on prompt and access PRD to know the project and tecnical definitions. 
 
-The outup should be added dirextly at the file output.md
+The outup should be added directly at the file output.md
 ```
